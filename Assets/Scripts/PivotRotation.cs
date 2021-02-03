@@ -10,7 +10,7 @@ public class PivotRotation : MonoBehaviour
     private bool dragging = false;
     private bool autoRotating = false;
     private float sensitivity = 0.4f;
-    private float speed = 300f;
+    private float speed = 350f;
     private Vector3 rotation;
 
     private Quaternion targetQuaternion;
